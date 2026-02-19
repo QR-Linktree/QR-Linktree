@@ -1,9 +1,7 @@
 # 🎧 QR-Linktree — Music Pages
 
-Bienvenue sur **QR-Linktree**, une collection de pages dédiées à des albums emblématiques.
+Bienvenue sur **QR-Linktree**, une collection de pages Linktree vers mes albums vinyles.
 Chaque lien mène vers une page GitHub Pages accessible publiquement.
-
-🌐 **Site principal** : [https://qr-linktree.github.io/](https://qr-linktree.github.io/)
 
 ---
 
