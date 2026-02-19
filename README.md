@@ -166,6 +166,7 @@ Chaque lien mène vers une page GitHub Pages accessible publiquement.
 * [Untitled Unmastered.](https://qr-linktree.github.io/Pages/KendrickLamar/uu.html)
 * [DAMN.](https://qr-linktree.github.io/Pages/KendrickLamar/damn.html)
 * [Mr. Morale & The Big Steppers](https://qr-linktree.github.io/Pages/KendrickLamar/mm&tbs.html)
+* [GNX](https://qr-linktree.github.io/Pages/KendrickLamar/gnx.html)
 
 ## Kid Cudi
 
