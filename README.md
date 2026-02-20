@@ -98,6 +98,10 @@ Chaque lien mène vers une page GitHub Pages accessible publiquement.
 
 * [Charm](https://qr-linktree.github.io/Pages/Clairo/charm.html)
 
+## Clipse
+
+* [Let God Sort Em Out](https://qr-linktree.github.io/Pages/Clipse/letgodsortemout.html)
+
 ## Daft Punk
 
 * [Discovery](https://qr-linktree.github.io/Pages/DaftPunk/discovery.html)
