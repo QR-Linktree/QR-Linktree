@@ -44,6 +44,7 @@ Chaque lien mène vers une page GitHub Pages accessible publiquement regroupant 
 * [Michael Jackson](#michael-jackson)
 * [Miles Davis](#miles-davis)
 * [Mobb Deep](#mobb-deep)
+* [Mort Garson](#mort-garson)
 * [Nas](#nas)
 * [Népal](#népal)
 * [Notorious B.I.G.](#notorious-big)
@@ -223,6 +224,10 @@ Chaque lien mène vers une page GitHub Pages accessible publiquement regroupant 
 ## Mobb Deep
 
 * [The Infamous](https://qr-linktree.github.io/Pages/MobbDeep/infinite.html)
+
+## Mort Garson
+
+* [Mother Earth's Plantasia](https://qr-linktree.github.io/Pages/MortGarson/plantasia.html)
 
 ## Nas
 
