@@ -80,7 +80,7 @@ Chaque lien mène vers une page GitHub Pages accessible publiquement regroupant 
 ## Asap Rocky
 
 * [At.Long.Last.A$AP](https://qr-linktree.github.io/Pages/AsapRocky/atlonglastasap.html)
-* [At.Long.Last.A$AP](https://qr-linktree.github.io/Pages/AsapRocky/dontbedumb.html)
+* [Dont Be Dumb](https://qr-linktree.github.io/Pages/AsapRocky/dontbedumb.html)
 
 ## Beatles
 
