@@ -14,6 +14,7 @@ Chaque lien mène vers une page GitHub Pages accessible publiquement regroupant 
 * [Beatles](#beatles)
 * [Billie Eilish](#billie-eilish)
 * [Bob Marley](#bob-marley)
+* [Bruno Mars](#bruno-mars)
 * [C418](#c418)
 * [Childish Gambino](#childish-gambino)
 * [Clairo](#clairo)
@@ -23,6 +24,7 @@ Chaque lien mène vers une page GitHub Pages accessible publiquement regroupant 
 * [De La Soul](#de-la-soul)
 * [Denzel Curry](#denzel-curry)
 * [Doechii](#doechii)
+* [Dr Dre](#dr-dre)
 * [Eminem](#eminem)
 * [Freddie Gibbs](#freddie-gibbs)
 * [Fugees](#fugees)
@@ -78,6 +80,7 @@ Chaque lien mène vers une page GitHub Pages accessible publiquement regroupant 
 ## Asap Rocky
 
 * [At.Long.Last.A$AP](https://qr-linktree.github.io/Pages/AsapRocky/atlonglastasap.html)
+* [At.Long.Last.A$AP](https://qr-linktree.github.io/Pages/AsapRocky/dontbedumb.html)
 
 ## Beatles
 
@@ -91,6 +94,10 @@ Chaque lien mène vers une page GitHub Pages accessible publiquement regroupant 
 ## Bob Marley
 
 * [Legend](https://qr-linktree.github.io/Pages/BobMarley/legend.html)
+
+## Bruno Mars
+
+* [An Evening With Silk Sonic](https://qr-linktree.github.io/Pages/BrunoMars/silksonic.html)
 
 ## C418
 
@@ -128,6 +135,10 @@ Chaque lien mène vers une page GitHub Pages accessible publiquement regroupant 
 ## Doechii
 
 * [Alligator Bites Never Heal](https://qr-linktree.github.io/Pages/Doechii/alligator.html)
+
+## Dr Dre
+
+* [The Chronic](https://qr-linktree.github.io/Pages/DrDre/thechronic.html)
 
 ## Eminem
 
