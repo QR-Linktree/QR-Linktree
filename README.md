@@ -31,6 +31,7 @@ Chaque lien mène vers une page GitHub Pages accessible publiquement regroupant 
 * [Geordie Greep](#geordie-greep)
 * [Gorillaz](#gorillaz)
 * [GZA](#gza)
+* [Jamiroquai](#jamiroquai)
 * [Johnny Hallyday](#johnny-hallyday)
 * [JPEGMAFIA](#jpegmafia)
 * [Kanye West](#kanye-west)
@@ -50,7 +51,9 @@ Chaque lien mène vers une page GitHub Pages accessible publiquement regroupant 
 * [Nas](#nas)
 * [Népal](#népal)
 * [Notorious B.I.G.](#notorious-big)
+* [Olivia Dean](#olivia-dean)
 * [Pink Floyd](#pink-floyd)
+* [Playboi Carti](#playboi-carti)
 * [Queen](#queen)
 * [Radiohead](#radiohead)
 * [Steve Lacy](#steve-lacy)
@@ -164,6 +167,10 @@ Chaque lien mène vers une page GitHub Pages accessible publiquement regroupant 
 
 * [Liquid Swords](https://qr-linktree.github.io/Pages/GZA/liquidswords.html)
 
+## Jamiroquai
+
+* [Synkronized](https://qr-linktree.github.io/Pages/Jamiroquai/synkronized.html)
+
 ## Johnny Hallyday
 
 * [Johnny](https://qr-linktree.github.io/Pages/JohnnyHallyday/johnny.html)
@@ -252,9 +259,17 @@ Chaque lien mène vers une page GitHub Pages accessible publiquement regroupant 
 
 * [Ready to Die](https://qr-linktree.github.io/Pages/NotoriousBIG/readytodie.html)
 
+## Olivia Dean
+
+* [The Art Of Loving](https://qr-linktree.github.io/Pages/OliviaDean/theartofloving.html)
+
 ## Pink Floyd
 
 * [The Dark Side of the Moon](https://qr-linktree.github.io/Pages/PinkFloyd/tdsotm.html)
+
+## Playboi Carty
+
+* [MUSIC](https://qr-linktree.github.io/Pages/PlayboiCarti/music.html)
 
 ## Queen
 
