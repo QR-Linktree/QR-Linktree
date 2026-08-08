@@ -267,7 +267,7 @@ Chaque lien mène vers une page GitHub Pages accessible publiquement regroupant 
 
 * [The Dark Side of the Moon](https://qr-linktree.github.io/Pages/PinkFloyd/tdsotm.html)
 
-## Playboi Carty
+## Playboi Carti
 
 * [MUSIC](https://qr-linktree.github.io/Pages/PlayboiCarti/music.html)
 
